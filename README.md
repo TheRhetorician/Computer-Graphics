@@ -2,8 +2,8 @@
 
 Contributors :
 
-Mudit Chaturvedi
+Mudit Chaturvedi : https://github.com/TheRhetorician
 
-Hardik Parnami
+Hardik Parnami : https://github.com/parse-hardik
 
-Tanay Gupta
+Tanay Gupta : https://github.com/Tanay0101
